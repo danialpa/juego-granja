@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>FFFF80</corfondo>
+        <corbanda>E1A3FC</corbanda>
+        <cornavega>E1A3FC</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Bienvenidos</titulo>
+        <autor>Dania Piedra Araya </autor>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >!Muy bien!</correcto>
+        <incorrecto son="y2mate.com_-_Descarga_Efecto_De_Sonido_De_Glitch_Oh3yHKaUSLs.mp3" modo="1" >!Intentalo de nuevo!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <cabeceira>Juego animales de la granja</cabeceira>
+              <imaxe>Abienve.png</imaxe>
+              <forma>2</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#080000" face="Georgia" size="54"><b><i>¡Buena suerte!</i></b></font></p>
+]]></texto>
+              <cfondo>FFFF80</cfondo>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>24</tipo>
+              <cabeceira>Seleccione los animales que concuerdan con el sonidos</cabeceira>
+              <son auto="1">Oveja.mp3</son>
+              <etiqueta imaxe="oveja.png" texto="">1</etiqueta>
+              <etiqueta imaxe="patos2.png" texto="">0</etiqueta>
+              <etiqueta imaxe="burro2.png" texto="">0</etiqueta>
+              <etiqueta imaxe="chonpipe.png" texto="">0</etiqueta>
+              <etiqueta imaxe="cerdo.png" texto="">0</etiqueta>
+              <etiqueta imaxe="oveja2.jpg" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="3" >
+              <tipo>24</tipo>
+              <cabeceira>Seleccione los animales que concuerdan con el sonidos</cabeceira>
+              <son auto="1">Burro.mp3</son>
+              <etiqueta imaxe="oveja.png" texto="">0</etiqueta>
+              <etiqueta imaxe="burro.png" texto="">1</etiqueta>
+              <etiqueta imaxe="burro2.png" texto="">1</etiqueta>
+              <etiqueta imaxe="chonpipe.png" texto="">0</etiqueta>
+              <etiqueta imaxe="cerdo.png" texto="">0</etiqueta>
+              <etiqueta imaxe="cabra.png" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>24</tipo>
+              <cabeceira>Seleccione los animales que concuerdan con el sonidos</cabeceira>
+              <son auto="1">Gallo.mp3</son>
+              <etiqueta imaxe="vaca3.png" texto="">0</etiqueta>
+              <etiqueta imaxe="vaca2.png" texto="">0</etiqueta>
+              <etiqueta imaxe="cerdo3.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="gallo.png" texto="">1</etiqueta>
+              <etiqueta imaxe="gallo2.png" texto="">1</etiqueta>
+              <etiqueta imaxe="cabra.png" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>24</tipo>
+              <cabeceira>Seleccione los animales que concuerdan con el sonidos</cabeceira>
+              <son auto="1">Vaca1.mp3</son>
+              <etiqueta imaxe="vaca3.png" texto="">1</etiqueta>
+              <etiqueta imaxe="vaca2.png" texto="">1</etiqueta>
+              <etiqueta imaxe="cerdo3.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="gallo.png" texto="">0</etiqueta>
+              <etiqueta imaxe="gallo2.png" texto="">0</etiqueta>
+              <etiqueta imaxe="cabra.png" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>24</tipo>
+              <cabeceira>Seleccione los animales que concuerdan con el sonidos</cabeceira>
+              <son auto="1">Cerdo.mp3</son>
+              <etiqueta imaxe="vaca3.png" texto="">0</etiqueta>
+              <etiqueta imaxe="vaca2.png" texto="">0</etiqueta>
+              <etiqueta imaxe="cerdo3.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="cerdo4.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="gallo2.png" texto="">0</etiqueta>
+              <etiqueta imaxe="cerdo.png" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>24</tipo>
+              <cabeceira>Seleccione los animales que concuerdan con el sonidos</cabeceira>
+              <son auto="1">Pavo.mp3</son>
+              <etiqueta imaxe="chonpipe.png" texto="">1</etiqueta>
+              <etiqueta imaxe="Male_north_american_turkey_supersaturated.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="pollito1.png" texto="">0</etiqueta>
+              <etiqueta imaxe="pato4.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="vaca5.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="cabra2.png" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>24</tipo>
+              <cabeceira>Seleccione los animales que concuerdan con el sonidos</cabeceira>
+              <son auto="1">Cabra.mp3</son>
+              <etiqueta imaxe="patito.png" texto="">0</etiqueta>
+              <etiqueta imaxe="cabra.png" texto="">1</etiqueta>
+              <etiqueta imaxe="pollito1.png" texto="">0</etiqueta>
+              <etiqueta imaxe="caballo.png" texto="">0</etiqueta>
+              <etiqueta imaxe="vaca5.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="cabra2.png" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="9" >
+              <tipo>24</tipo>
+              <cabeceira>Seleccione los animales que concuerdan con el sonidos</cabeceira>
+              <son auto="1">Caballo.mp3</son>
+              <etiqueta imaxe="patito.png" texto="">0</etiqueta>
+              <etiqueta imaxe="descarga.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="descarga5.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="caballo.png" texto="">1</etiqueta>
+              <etiqueta imaxe="cerdo3.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="cabra2.png" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="10" >
+              <tipo>24</tipo>
+              <cabeceira>Seleccione los animales que concuerdan con el sonidos</cabeceira>
+              <son auto="1">Pollito.mp3</son>
+              <etiqueta imaxe="patito.png" texto="">0</etiqueta>
+              <etiqueta imaxe="pollito4.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="descarga5.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="oveja2.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="cerdo3.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="pollito1.png" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="11" >
+              <tipo>51</tipo>
+              <cabeceira>Seleccione todos los caballos que se le muestran en pantalla</cabeceira>
+              <valor>3</valor>
+              <peza imaxe="descarga5.jpg">1</peza>
+              <peza imaxe="cabra1.png">2</peza>
+              <modo>1</modo>
+              <cadro>1</cadro>
+        </paxina>
+        <paxina id="12" >
+              <tipo>51</tipo>
+              <cabeceira>Seleccione todos los gallos que se le muestran en pantalla</cabeceira>
+              <valor>3</valor>
+              <peza imaxe="gallo2.png">1</peza>
+              <peza imaxe="Male_north_american_turkey_supersaturated.jpg">2</peza>
+              <modo>1</modo>
+              <cadro>1</cadro>
+        </paxina>
+        <paxina id="13" >
+              <tipo>35</tipo>
+              <cabeceira>Ordene las imágenes con forme a los nombres que se encuentran en la parte inferior</cabeceira>
+              <pe>Cabra, Gallo, Pavo, Caballo, Cerdo</pe>
+              <forma>1</forma>
+              <completa>cabra.png</completa>
+              <completa>gallo.png</completa>
+              <completa>Male_north_american_turkey_supersaturated.jpg</completa>
+              <completa>caballo.png</completa>
+              <completa>cerdo.png</completa>
+        </paxina>
+        <paxina id="14" >
+              <tipo>35</tipo>
+              <cabeceira>Ordene las imágenes con forme a los nombres que se encuentran en la parte inferior</cabeceira>
+              <pe>Pollito, Vaca, Burro, Oveja, Pato</pe>
+              <forma>1</forma>
+              <completa>pollito4.jpg</completa>
+              <completa>vaca5.jpg</completa>
+              <completa>burro.png</completa>
+              <completa>oveja2.jpg</completa>
+              <completa>pato4.jpg</completa>
+        </paxina>
+        <paxina id="15" >
+              <tipo>3</tipo>
+              <cabeceira>Rompecabezas </cabeceira>
+              <imaxe>Animales.png</imaxe>
+              <imfondo  trans="5">Animales.png</imfondo>
+              <filas>4</filas>
+              <columnas>3</columnas>
+              <reixa>0</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="16" >
+              <tipo>3</tipo>
+              <cabeceira>Rompecabezas</cabeceira>
+              <imaxe>Animales_2.png</imaxe>
+              <imfondo  trans="5">Animales_2.png</imfondo>
+              <filas>4</filas>
+              <columnas>3</columnas>
+              <reixa>0</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="17" >
+              <tipo>38</tipo>
+              <cabeceira>Juego animales de la granja</cabeceira>
+              <imaxe>varios.png</imaxe>
+              <son auto="1">aplausos.mp3</son>
+              <forma>2</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#080000" face="Georgia" size="54"><b><i>¡Muchas gracias por jugar con nosotros!</i></b><br>
+</font></p>
+]]></texto>
+              <cfondo>FFFF80</cfondo>
+              <ctexto>000000</ctexto>
+        </paxina>
+    </libro>
+</lim>
